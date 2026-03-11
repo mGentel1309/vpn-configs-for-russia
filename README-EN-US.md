@@ -274,15 +274,6 @@ Install the official v2rayN or Throne (successor of Nekoray) client, run it in �
   
    `karing_1.2.10.1300_macos_universal.dmg` for MacOS
    
-**4)** **Singbox-launcher:** 
-
-  *A new client worth trying for testing VPN configurations; works together with Sing-Box. Give it a try — the developer is friendly and responsive.*
-
-   https://github.com/Leadaxe/singbox-launcher/releases
-
-   `singbox-launcher-v0.7.1-win64.zip` for Windows
-  
-   `singbox-launcher-v0.7.1-macos.zip` for MacOS
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGcxcG8yMGNzOTNmZDE1Z3hob3V3ajU4dmhkdnhsY2doMXFrNXowMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oFSDc1Oq12Ie5NJnmA/giphy.gif" width="20"> iOS — use Streisand, Shadowrocket, Karing, V2Box or v2RayTun from the App Store.
 
